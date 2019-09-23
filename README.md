@@ -5,3 +5,5 @@ applications. In particular, the predictive power of algorithms like Naïve Baye
 are highlighted by creating classifiers for the Pima Indian Diabetes dataset. The study could be the key
 to uncovering crucial information about diabetes not only in the Pima heritage, but perhaps globally
 as well, improving predictability and allowing for early countermeasures to be taken to prevent it.
+
+**NOTE:** See report.pdf for the final report, including data analysis, results analysis and conclusions/reflections.
